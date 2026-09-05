@@ -6,7 +6,7 @@ Adaptive Energy Orchestration for Smart EV Fleets
 
 ## Overview
 
-GridFlow AI is a real-time decision engine that brings Formula 1-grade energy deployment strategy to India's electric vehicle revolution. The system optimizes battery usage across commercial EV fleets — including buses, delivery vans, and logistics trucks — by predicting traffic, terrain, and thermal conditions, then recommending exactly when to conserve energy and when to deploy it for critical maneuvers.
+GridFlow AI is a real-time decision engine that brings Formula 1-grade energy deployment strategy to India's electric vehicle revolution. The system optimizes battery usage across commercial EV fleets — including buses, delivery vans, and logistics trucks - by predicting traffic, terrain, and thermal conditions, then recommending exactly when to conserve energy and when to deploy it for critical maneuvers.
 
 This repository contains the live dashboard prototype developed for the **TrackShift Innovation Challenge 2026** under the theme **AI Motorsport Intelligence**.
 
@@ -21,7 +21,7 @@ India's EV adoption is accelerating rapidly. Companies like BluSmart, Amazon Ind
 - **Inefficient Fleet Management**: Fleet managers cannot dynamically redistribute energy-intensive routes between vehicles with different charge levels.
 - **Missed Deadlines**: Delivery drivers either drive aggressively (draining battery) or conservatively (missing SLA windows), with no optimal middle path.
 
-The core insight: In Formula 1, engineers calculate exactly how much energy to deploy on each lap. Indian EV fleets face the same calculus every day — but without the pit wall.
+The core insight: In Formula 1, engineers calculate exactly how much energy to deploy on each lap. Indian EV fleets face the same calculus every day - but without the pit wall.
 
 ---
 
